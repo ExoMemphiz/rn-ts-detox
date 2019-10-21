@@ -14,7 +14,8 @@ This is a boiletplate project for quickly setting up a React Native v.0.60+ app 
 
 When renaming the project, follow these steps:
 
-1. Delete android and ios folders.
-2. run `react-native upgrade --legacy true`
-3. Answer no to all the questions
-4. run `sh createDetox.sh` from the root folder
+1. Rename the package.json "name" property to whatever project name you want
+2. Delete android and ios folders.
+3. run `react-native upgrade --legacy true`
+4. Answer no to all the questions
+5. run `sh createDetox.sh` from the root folder
