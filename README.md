@@ -10,7 +10,7 @@ This is a boiletplate project for quickly setting up a React Native v.0.60+ app 
 -   Detox Setup
 -   React-Native-Testing-Library Setup
 
-## Needed Changes
+## Renaming Project
 
 When renaming the project, follow these steps:
 
